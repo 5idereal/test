@@ -17,7 +17,7 @@ MarkupSafe==2.0.1
 music-tag==0.4.3
 mutagen==1.45.1
 pikepdf==4.0.1.post1
-Pillow==8.4.0
+Pillow==9.0.0
 protobuf==3.19.0
 pycparser==2.20
 pycryptodomex==3.11.0
