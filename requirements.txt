@@ -12,7 +12,7 @@ ifaddr==0.1.7
 img2pdf==0.4.1
 itsdangerous==2.0.1
 Jinja2==3.0.3
-lxml==4.6.4
+lxml==4.6.5
 MarkupSafe==2.0.1
 music-tag==0.4.3
 mutagen==1.45.1
