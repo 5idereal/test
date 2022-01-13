@@ -1,0 +1,25 @@
+@mixin font {
+    font-family:微軟正黑體;
+    font-size: x-large;
+}
+html{
+    background-color: darkgray;
+}
+#title{
+    @include font();
+    font-weight: bolder;
+    color: white;
+}
+#logout{
+    bottom:1%;
+    right:1%;
+    position: fixed;
+    button{
+        @include font();
+        font-weight: bolder;
+        background-color: azure;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 10px;
+    }
+}

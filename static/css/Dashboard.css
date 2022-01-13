@@ -1,0 +1,27 @@
+@charset "UTF-8";
+html {
+  background-color: darkgray;
+}
+
+#title {
+  font-family: 微軟正黑體;
+  font-size: x-large;
+  font-weight: bolder;
+  color: white;
+}
+
+#logout {
+  bottom: 1%;
+  right: 1%;
+  position: fixed;
+}
+
+#logout button {
+  font-family: 微軟正黑體;
+  font-size: x-large;
+  font-weight: bolder;
+  background-color: azure;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+}
