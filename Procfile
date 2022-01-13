@@ -1,1 +1,1 @@
-web gunicorn app:core
+web gunicorn FLASK_APP:core
