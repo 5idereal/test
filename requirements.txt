@@ -32,3 +32,4 @@ urllib3==1.26.7
 websocket-client==1.2.1
 Werkzeug==2.0.2
 zeroconf==0.36.9
+gunicorn
